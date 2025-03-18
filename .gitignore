@@ -1,0 +1,18 @@
+# Python-related files
+__pycache__/
+*.pyc
+.env
+*.h5
+*.pkl
+*.log
+venv39/
+
+# Exclude system and irrelevant directories
+AppData/
+OneDrive/
+Documents/
+Downloads/
+Pictures/
+Videos/
+*.tmp
+*.bak
